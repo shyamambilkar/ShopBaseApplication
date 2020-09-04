@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "122250244712",
+    "firebase_url": "https://shopbase-27ecf.firebaseio.com",
+    "project_id": "shopbase-27ecf",
+    "storage_bucket": "shopbase-27ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122250244712:android:71f24227d332f39b5201dd",
+        "android_client_info": {
+          "package_name": "com.example.shopbaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122250244712-of3ra1qvvboifv24l2bs6g1aatnd5kvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopbaseapp",
+            "certificate_hash": "4b667aa6f3cceba722db8dc5a1adeb707009c635"
+          }
+        },
+        {
+          "client_id": "122250244712-s43jp6c2oooakun195b8ltibls8th2ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqU5QGdUAikx5GmY3-FeS9WpFyN5FEOlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122250244712-s43jp6c2oooakun195b8ltibls8th2ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
